@@ -2,7 +2,7 @@
 name = "clickhouse-db-copy"
 version = "0.1.0"
 description = ""
-authors = ["Daniel_Yuan_Ren <yuan.ren@fiddlehead.io>"]
+authors = ["Daniel_Yuan_Ren"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
